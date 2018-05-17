@@ -1,5 +1,5 @@
 <?php
 
-echo "Eita Pega";
+echo "Eita";
 
 ?>
